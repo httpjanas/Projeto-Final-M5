@@ -3,7 +3,7 @@
 <a href="https://imgur.com/AU9njqR"><img src="https://i.imgur.com/AU9njqR.png" title="source: imgur.com" /></a>
 </div>
 
-# <div> Sejam bem vindos ao projeto de módulo 3 do Team Puzzle</div>
+# <div> Sejam bem vindos ao projeto de módulo 5 - Resilia - Data Analytics</div>
 
 ## Conteúdos 📄
 - Descrição do Projeto 📝
@@ -13,8 +13,8 @@
 - Desenvolvedores :woman_technologist::woman_technologist::woman_technologist::man_technologist:
 
 ## Descrição do Projeto 📝
-Projeto de construção de um banco de dados para gerenciamento da estrutura de ensino da empresa para modernizar o processo de
-armazenamento de dados.
+O projeto final tem como objetivo de contar nossa trajetória ao longo do curso com um storytelling que responde o seguinte questionamento: "Por que uma empresa deveria contratar o seu grupo?" 
+Como resposta encontramos diversos dados importantes do grupo que foram transformados em gráficos que podem ser vistos ao longo dessa descrição. Aproveitem! 
 
 Este projeto foi elaborado por estudantes da Instituição [Resilia](https://www.resilia.work/), em colaboração dos facilitadores Esli Queiroz (Soft) e Rafael Pilan (Tech). Deixamos aqui nossos profundos e sinceros agradecimentos por essa etapa concluída de final do terceiro módulo.
 
@@ -23,40 +23,17 @@ Este projeto foi elaborado por estudantes da Instituição [Resilia](https://www
 <div><h4 align = "center"> Concluído :white_check_mark: </h4></div>
 
 
-## Colocando em Funcionamento 💻
+## Detalhamento do projeto 💻
 
 Recursos utilizados:
-- PostgreSQL
-- PgAdmin4
-- Google sheets
-- Diagrams.net
-- Draw.io
+- PowerBi
+- Miro
+- Google sheets e docs
+- Discord
+- Canva
 
 <hr>
 
-### Passos a serem feitos para rodar o programa:
-``` PgAdmin
-    # Fazer o clone do reposítório na sua máquina rodando o código abaixo:
-    git clone <https://github.com/httpjanas/Projeto_MD3.git>
-    
-    # Abrir o arquivo "Tables.sql" em seu programa de preferência que suporte banco de dados postgres;
-    
-    # Selecione da linha 3 a linha 90 e rode o código, criando assim o banco de dados desejado;
-    
-    # Em seguida importe no banco de dados criado as tabelas da pasta "Dados das tabelas" 
-    presente nesse repositório, na ordem abaixo:
-        - departamentos 
-        - cursos 
-        - forma_de_pagamento 
-        - modulos 
-        - area 
-        - facilitadores 
-        - turma 
-        - alunos. 
-        
-    # Selecione os selects que deseja visualizar e rode o código.
-
-```
 <b>Modelos criados:<b>
 <h3><li> Modelo Conceitual </li></h3>
 <div align ='center'>
