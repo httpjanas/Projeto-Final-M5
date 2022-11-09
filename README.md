@@ -2,7 +2,6 @@
 <div align="center">
 <a href="https://imgur.com/AU9njqR"><img src="https://i.imgur.com/AU9njqR.png" title="source: imgur.com" /></a>
 </div>
-
 # <div> Sejam bem vindos ao projeto de módulo 5 - Resilia - Data Analytics</div>
 
 ## Conteúdos 📄
@@ -34,14 +33,14 @@ Recursos utilizados:
 
 <hr>
 
-<b>Modelos criados:<b>
-<h3><li> Modelo Conceitual </li></h3>
+<b>Gráficos criados:<b>
+<h3><li> Nuvem de palavras </li></h3>
 <div align ='center'>
-<a href="https://imgur.com/xsdVRC6"><img src="https://i.imgur.com/xsdVRC6.png" title="source: imgur.com" />
+<a href="https://imgur.com/QlO89xz"><img src="https://i.imgur.com/QlO89xz.png" title="source: imgur.com" />
 </div>
-<h3><li> Modelo Lógico </li></h3>
+<h3><li> Mais gráficos </li></h3>
 <div align ='center'>
-<a href="https://imgur.com/Amon12X"><img src="https://i.imgur.com/Amon12X.png" title="source: imgur.com" /></a>
+<a href=""><img src="" title="source: imgur.com" /></a>
 </div>
 <hr>
 
