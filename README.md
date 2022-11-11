@@ -2,7 +2,9 @@
 <div align="center">
 <a href="https://imgur.com/AU9njqR"><img src="https://i.imgur.com/AU9njqR.png" title="source: imgur.com" /></a>
 </div>
-# <div> Sejam bem vindos ao projeto de módulo 5 - Resilia - Data Analytics</div>
+# <div> Sejam bem vindos ao projeto de módulo 5 - Resilia - Data Analytics</div> 
+
+[Confira aqui a apresentação completa do nosso projeto!](https://www.canva.com/design/DAFKiGaix_g/o78w2r0JL0Nk5cuW1CAeQQ/edit?utm_content=DAFKiGaix_g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Conteúdos 📄
 - Descrição do Projeto 📝
@@ -15,7 +17,7 @@
 O projeto final tem como objetivo de contar nossa trajetória ao longo do curso com um storytelling que responde o seguinte questionamento: "Por que uma empresa deveria contratar o seu grupo?" 
 Como resposta encontramos diversos dados importantes do grupo que foram transformados em gráficos que podem ser vistos ao longo dessa descrição. Aproveitem! 
 
-Este projeto foi elaborado por estudantes da Instituição [Resilia](https://www.resilia.work/), em colaboração dos facilitadores Esli Queiroz (Soft) e Rafael Pilan (Tech). Deixamos aqui nossos profundos e sinceros agradecimentos por essa etapa concluída de final do terceiro módulo.
+Este projeto foi elaborado por estudantes da Instituição [Resilia](https://www.resilia.work/), em colaboração dos facilitadores Esli Queiroz (Soft) e Rafael Pilan (Tech). Deixamos aqui nossos profundos e sinceros agradecimentos por essa etapa concluída de final do quinto e último módulo do curso. 
 
 ## Status do Projeto :white_check_mark: 
 
