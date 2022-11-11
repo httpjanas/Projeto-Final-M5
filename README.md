@@ -35,14 +35,22 @@ Recursos utilizados:
 
 <hr>
 
-<b>Gráficos criados:<b>
-<h3><li> Nuvem de palavras </li></h3>
+### <b>Gráficos criados:<b>
+<h3><li> Nuvem de Palavras </li></h3>
 <div align ='center'>
-<a href="https://imgur.com/QlO89xz"><img src="https://i.imgur.com/QlO89xz.png" title="source: imgur.com" />
+<a href="https://imgur.com/pOxcbTz"><img src="https://i.imgur.com/pOxcbTz.png" title="source: imgur.com" />
 </div>
-<h3><li> Mais gráficos </li></h3>
+<h3><li> Bullet Graph </li></h3>
 <div align ='center'>
-<a href=""><img src="" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Wk2gmFt"><img src="https://i.imgur.com/Wk2gmFt.png" title="source: imgur.com" /></a>
+</div>
+<h3><li> Gráfico Waffle </li></h3>
+<div align ='center'>
+<a href="https://imgur.com/D7zwIVD"><img src="https://i.imgur.com/D7zwIVD.png" title="source: imgur.com" />
+</div>
+<h3><li> Gráfico de Radar </li></h3>
+<div align ='center'>
+<a href="https://imgur.com/cZiYBGf"><img src="https://i.imgur.com/cZiYBGf.png" title="source: imgur.com" />
 </div>
 <hr>
 
