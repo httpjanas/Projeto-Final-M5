@@ -2,7 +2,11 @@
 <div align="center">
 <a href="https://imgur.com/AU9njqR"><img src="https://i.imgur.com/AU9njqR.png" title="source: imgur.com" /></a>
 </div>
-# <div> Sejam bem vindos ao projeto de módulo 5 - Resilia - Data Analytics</div>
+
+## Sejam bem-vindos ao projeto final do módulo 5 - Resilia - Data Analytics! </div>
+
+[Confira também a apresentação completa que preparamos!](https://www.canva.com/design/DAFRlFuuKU0/NbJqjO1q3N7EzP9bfVczrQ/view?utm_content=DAFRlFuuKU0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+</div>
 
 ## Conteúdos 📄
 - Descrição do Projeto 📝
@@ -15,7 +19,7 @@
 O projeto final tem como objetivo de contar nossa trajetória ao longo do curso com um storytelling que responde o seguinte questionamento: "Por que uma empresa deveria contratar o seu grupo?" 
 Como resposta encontramos diversos dados importantes do grupo que foram transformados em gráficos que podem ser vistos ao longo dessa descrição. Aproveitem! 
 
-Este projeto foi elaborado por estudantes da Instituição [Resilia](https://www.resilia.work/), em colaboração dos facilitadores Esli Queiroz (Soft) e Rafael Pilan (Tech). Deixamos aqui nossos profundos e sinceros agradecimentos por essa etapa concluída de final do terceiro módulo.
+Este projeto foi elaborado por estudantes da Instituição [Resilia](https://www.resilia.work/), em colaboração dos facilitadores Esli Queiroz (Soft) e Rafael Pilan (Tech). Deixamos aqui nossos profundos e sinceros agradecimentos por essa etapa concluída de final do quinto e último módulo do curso. 
 
 ## Status do Projeto :white_check_mark: 
 
@@ -33,19 +37,29 @@ Recursos utilizados:
 
 <hr>
 
-
-
-
-<b>Gráficos criados:<b>
-<h3><li> Nuvem de palavras </li></h3>
+### <b>Gráficos criados:<b>
+<h3><li> Nuvem de Palavras </li></h3>
 <div align ='center'>
-<a href="https://imgur.com/QlO89xz"><img src="https://i.imgur.com/QlO89xz.png" title="source: imgur.com" />
+<a href="https://imgur.com/pOxcbTz"><img src="https://i.imgur.com/pOxcbTz.png" title="source: imgur.com" />
 </div>
-<h3><li> Mais gráficos </li></h3>
+<h3><li> Bullet Graph </li></h3>
 <div align ='center'>
-<a href=""><img src="" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Wk2gmFt"><img src="https://i.imgur.com/Wk2gmFt.png" title="source: imgur.com" /></a>
 </div>
-<hr>
+<h3><li> Gráfico Waffle </li></h3>
+    <div align ='center'>
+<a href="https://imgur.com/D7zwIVD"><img src="https://imgur.com/D7zwIVD.png" title="source: imgur.com" /></a>
+</div>
+<h3><li> Gráfico de Radar </li></h3>
+    <div align ='center'>
+<a href="https://imgur.com/cZiYBGf"><img src="https://imgur.com/cZiYBGf.png" title="source: imgur.com" /></a>
+</div>
+<h3><li> E muito mais! </li></h3>
+    </div>
+    
+    
+  
+    
 
 ## Ferramentas Utilizadas :toolbox:
 As seguintes ferramentas foram utilizadas na construção do projeto: 
@@ -145,8 +159,3 @@ Abaixo você pode se conectar e conhecer melhor os idealizadores e desenvolvedor
 ![imagem](https://www.resilia.com.br/wp-content/uploads/2021/08/logo.png)
 
 ➔ Criamos nossa narrativa utilizando a linguagem do arquétipo do Mago. Esse arquétipo fala daquilo que mais simboliza os quatro integrantes da squad com a jornada na Resilia: a transformação. Ao longo da narrativa, dos slides e do próprio logotipo da marca criada pelo grupo, demonstramos de forma sutil essa TRANSFORMAÇÃO que a jornada nos proporcionou ao longo desses seis meses de muito trabalho e aprendizado. 
-
-
-
-
-
